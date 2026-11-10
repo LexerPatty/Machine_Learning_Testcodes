@@ -1,0 +1,17 @@
+# Regression :  [Predicting your salary based on your experience → value is numeric.]
+# Linear Regression /
+# Polynomial Regression
+# Decision Trees (for regression) /
+# Random Forest Regresion
+# Gradient Boosting Regression
+
+
+# Classification : [Deciding whether your loan will be approved or rejected → value is categorical.]
+
+# Logistic Regression /
+# k-Nearest Neighbors (KNN) /
+# Decision Trees (for classification) /
+# Random Forest Classifier /
+# Naive Bayes /
+# Support Vector Machines (SVM) /
+# Neural Networks
